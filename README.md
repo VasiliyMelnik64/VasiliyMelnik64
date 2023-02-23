@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently focused on backend technologies such as **Python**
 - 💬 We can speak about anything related to **javascript, react, python, nodejs**
-- 📫 How to reach me **vasiliymelnik64@gmail.com**
+- 📫 Reach me out **vasiliymelnik64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
