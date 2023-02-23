@@ -109,7 +109,7 @@
   </a>
    <a href="https://www.python.org" target="_blank">
     <img
-      src="https://www.python.org/static/img/python-logo@2x.png"
+      src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/community/logos/python-logo-only.png"
       alt="python"
       width="40"
       height="40"
@@ -117,9 +117,6 @@
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
-  <a href="https://www.jenkins.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40" />
   </a>
   <a href="https://jestjs.io" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" />
