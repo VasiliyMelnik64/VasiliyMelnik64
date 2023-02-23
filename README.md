@@ -51,22 +51,6 @@
       height="40"
     />
   </a>
-  <a href="https://rxjs.dev/" target="_blank">
-    <img
-      src="https://github.com/ReactiveX/rxjs/blob/master/docs_app/src/assets/images/logos/Rx_Logo_S.png"
-      alt="rxjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://ngrx.io/" target="_blank">
-    <img
-      src="https://ngrx.io/assets/images/badge.svg"
-      alt="ngrx"
-      width="40"
-      height="40"
-    />
-  </a>
   <a href="https://reactjs.org/" target="_blank">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
