@@ -3,8 +3,8 @@
     Javascript and Python developer<img width="55" src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" /> (Front-end / Full-stack)
 </h3>
 
-- 🌱 I’m currently focused on backend technologies such as **Python**
-- 💬 We can speak about anything related to **javascript, react, python, nodejs**
+- 🌱 I’m currently focused on **Data science** with **Python**
+- 💬 We can speak about anything related to **Javascript, React, Tython, Node.js**
 - 📫 Reach me out **vasiliymelnik64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
