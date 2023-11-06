@@ -13,7 +13,15 @@
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-      alt="zenby"
+      alt="VasilMelnik"
+      height="30"
+      width="40"
+  /></a>
+    <a href="https://twitter.com/Vasil_Melnik_" target="blank"
+    ><img
+      align="center"
+      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+      alt="VasilMelnik"
       height="30"
       width="40"
   /></a>
@@ -21,7 +29,7 @@
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
-      alt="evgeniydainovich"
+      alt="VasilMelnik"
       height="30"
       width="40"
   /></a>
