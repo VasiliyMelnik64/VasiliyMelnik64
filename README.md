@@ -55,8 +55,8 @@
   </a>
     <a href="https://angular.io" target="_blank">
     <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg"
-      alt="angularjs"
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+      alt="vuejs"
       width="40"
       height="40"
     />
