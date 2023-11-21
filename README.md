@@ -4,7 +4,7 @@
 </h3>
 
 - 🌱 I’m currently focused on **Data science** with **Python**
-- 💬 We can speak about anything related to **Javascript, React, Tython, Node.js**
+- 💬 We can speak about anything related to **Javascript, React, Python, Node.js**
 - 📫 Reach me out **vasiliymelnik64@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
